@@ -1,8 +1,0 @@
-{
-  "name": "mapa-nextjs-graphQL-e-leaflet",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:kamusari/mapa-nextjs-graphQL-e-leaflet.git",
-  "author": "Kamusari <lucker.de.souza@gmail.com>",
-  "license": "MIT"
-}
